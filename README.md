@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RBranch47
-- 👀 I’m interested in coding, reading, art, and gaming
-- 🌱 I’m currently learning c++, SQL, Linux, and potentially python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding, Reading, Art, and Gaming
+- 🌱 I’m currently learning C++, SQL, JavaScript, React, HTML/CSS, and Python
 - 📫 you can reach me at branchrasean@gmail.com
 
 <!---
